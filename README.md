@@ -28,7 +28,7 @@
    <pre>'pre' tag preserve the formatting (good for writing codes )
 s Python code
     x = 2
-    y = 3
+    y = 3 
 print(x+y)
 
 
